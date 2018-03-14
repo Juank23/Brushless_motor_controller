@@ -9,7 +9,7 @@ code was compiled using the [Espressif ESP32 toolchain].
 ## Brushless Motor Controller Schematic
 ![][bm_controller_sch]
 
-[bm_controller_sch]: https://github.com/fabriziotappero/Brushless_motor_controller/PCB/bm_controller_sch.png ""
+[bm_controller_sch]: https://github.com/fabriziotappero/Brushless_motor_controller/blob/master/PCB/bm_controller_sch.png ""
 [Espressif ESP32 module]: https://www.espressif.com/en/products/hardware/development-boards
 [Espressif ESP32 toolchain]: https://dl.espressif.com/doc/esp-idf/latest/index.html
 [KiCad]: http://kicad-pcb.org/

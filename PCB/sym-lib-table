@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name IRS2890DS)(type Legacy)(uri ${KIPRJMOD}/lib/IRS2890DS.lib)(options "")(descr ""))
+  (lib (name L6385E)(type Legacy)(uri ${KIPRJMOD}/lib/L6385E.lib)(options "")(descr ""))
+  (lib (name esp32-wroom)(type Legacy)(uri ${KIPRJMOD}/lib/esp32-wroom.lib)(options "")(descr ""))
+  (lib (name esp32-doit-evalkit)(type Legacy)(uri ${KIPRJMOD}/lib/esp32-doit-evalkit.lib)(options "")(descr ""))
+)
